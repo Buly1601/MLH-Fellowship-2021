@@ -1,0 +1,11 @@
+.venv
+__pycache__
+*.pyc
+.env
+env/
+venv/
+.idea/
+.DS_Store
+.vscode
+nv/
+python3-virtualenv/
